@@ -84,3 +84,13 @@ h1 {
 
 }
 
+/*Estilos dark*/
+
+html.dark {
+  background-color: #030220;
+  color: #fff;
+}
+
+.dark .nav-links a {
+  color: #fff;
+}
